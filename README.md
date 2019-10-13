@@ -35,6 +35,7 @@ git clone https://github.com/Sudarshan-Gowda/Angular8-SpringBoot-Crud-Example.gi
 File -> Import -> Maven -> Existing Maven project -> Angular8-SpringBoot-Crud-Example
 ```
 3) To Import the Angular project in Visual Studio
+```
 File -> Add folder to workspace -> angular-crud-app
 
 
@@ -60,3 +61,4 @@ Install the application, Once it is done start it by running Main class `Angular
 # Contributing
 
 The [issue tracker](https://github.com/Sudarshan-Gowda/Angular8-SpringBoot-Crud-Example/issues) is the preferred channel for bug reports, features requests and submitting pull requests.
+
