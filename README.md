@@ -37,6 +37,7 @@ File -> Import -> Maven -> Existing Maven project -> Angular8-SpringBoot-Crud-Ex
 3) To Import the Angular project in Visual Studio
 ```
 File -> Add folder to workspace -> angular-crud-app
+```
 
 
 ## Looking for something in particular?
